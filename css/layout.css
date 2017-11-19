@@ -25,6 +25,7 @@
 /* Posititoning Classes */
 
 [class*="third"] {
+  margin-bottom: 2%;
   margin-left: 2%;
 }
 
