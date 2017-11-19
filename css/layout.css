@@ -23,11 +23,7 @@
 }
 
 /* Posititoning Classes */
-/*
-h2.milk_text {
-  margin-top: 20px;
-}
-*/
+
 [class*="third"] {
   margin-bottom: 2%;
   margin-left: 2%;
