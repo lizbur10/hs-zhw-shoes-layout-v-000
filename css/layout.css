@@ -23,5 +23,30 @@
 }
 
 /* Posititoning Classes */
+/*
+h2.milk_text {
+  margin-top: 20px;
+}
+*/
+[class*="third"] {
+  margin-bottom: 2%;
+  margin-left: 2%;
+}
 
+.one-third {
+  width: 32%;
+  float: left;
+}
 
+.two-thirds {
+  width: 66%;
+  float: left;
+}
+
+.three-thirds {
+  width: 100%;
+}
+
+.first {
+  margin-left: 0%;
+}
